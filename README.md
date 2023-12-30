@@ -1,5 +1,9 @@
 ![Tux, the Linux mascot](/assets/logo.png)
 
+## 🔗 Official telegram channel
+[![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/codespec)](https://t.me/codespec)
+
+
 # Отчет аудита
 
 ### Оригинальный репозиторий (private): https://github.com/munris-vlad/layerzero
